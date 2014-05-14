@@ -1,6 +1,5 @@
 ###我自己好喜欢我自己的idea
-###My FUCKING great idea
-
+###My FUCKING GREAT IDEA
 
 ###简介
 
