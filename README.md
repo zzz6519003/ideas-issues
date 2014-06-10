@@ -12,7 +12,7 @@ everyone may have niubility ideas sometimes, maybe some ```weird coder buddy```w
 
 - 注册github账号
 - [发想法](https://github.com/zzz6519003/ideas/issues/new)
-- 
+
 ###Usage
 
 sb. who get good ideas:
