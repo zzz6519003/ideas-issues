@@ -8,19 +8,22 @@
 everyone may have niubility ideas sometimes, maybe some ```weird coder buddy```will make it true,huh.
 
 ###使用方法
-###Introduction
 对于有牛逼想法的人：
-sb. who get good ideas:
 
 - 注册github账号
-- sign up github account
 - [发想法](https://github.com/zzz6519003/ideas/issues/new)
+- 
+###Usage
+
+sb. who get good ideas:
+- sign up github account
 - [post ideas](https://github.com/zzz6519003/ideas/issues/new)
 
-对于想实现牛逼想法的人：
 sb. who want to make it true:
-
 - watch this project
 
+对于想实现牛逼想法的人：
+
+
 ###TODO
-－ Readme 翻译成英语
+－ Readme 完善翻译
