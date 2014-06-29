@@ -5,11 +5,11 @@ Everyone may have niubility ideas sometime, make a issue here, maybe some ```coo
 
 ###Usage
 
-sb. who get good ideas:
+If you have good ideas:
 - sign up github account
 - [post ideas](https://github.com/zzz6519003/ideas/issues/new)
 
-sb. who want to make it true:
+If you wanna implement it:
 - watch this project
 
 
