@@ -1,4 +1,5 @@
 ###My FUCKING GREAT IDEA
+(中文在后)
 
 ###Summary
 Everyone may have niubility ideas sometime, make a issue here, maybe some ```cool coder```will make it true, lol.
