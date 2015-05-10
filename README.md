@@ -2,7 +2,7 @@
 (中文在后)
 
 ###Summary
-Everyone may have niubility ideas sometime, make an issue here, maybe some ```cool coder```will make it true, lol.
+Everyone may have awesome ideas sometimes, make an issue here, maybe some ```cool coder```will make it true, lol.
 
 ###Usage
 
