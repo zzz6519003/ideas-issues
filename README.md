@@ -1,5 +1,4 @@
 ###My FUCKING GREAT IDEA
-(中文在后)
 
 ###Summary
 Everyone may have awesome ideas sometimes, make an issue here, maybe some ```cool coder```will make it true, lol.
