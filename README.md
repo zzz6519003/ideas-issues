@@ -1,9 +1,9 @@
-###My FUCKING GREAT IDEA
+### My FUCKING GREAT IDEA
 
-###Summary
+### Summary
 Everyone may have awesome ideas sometimes, make an issue here, maybe some ```cool coder```will make it true, lol.
 
-###Usage
+### Usage
 
 If you have good ideas:
 - sign up github account
@@ -14,12 +14,12 @@ If you wanna implement it:
 
 
 
-###我自己好喜欢我自己的idea
-###简介
+### 我自己好喜欢我自己的idea
+### 简介
 
 每个人都会有时候觉得自己有个好牛逼的想法，提到这里说不定有```程序员哥哥```会帮你实现咧。
 
-###使用方法
+### 使用方法
 对于有牛逼想法的人：
 
 - 注册github账号
@@ -30,5 +30,5 @@ If you wanna implement it:
 对于想实现牛逼想法的人：
 - watch this project
 
-###TODO
-－ Readme 完善翻译
+### TODO
+－ Readme Refinement 完善README
