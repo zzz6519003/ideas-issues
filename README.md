@@ -1,7 +1,7 @@
 ### My FUCKING GREAT IDEA
 
 ### Summary
-Everyone may have awesome ideas sometimes, make an issue here, maybe some ```cool coder```will make it true, lol.
+Everyone may have awesome ideas sometimes, make an issue here, maybe some ```cool coder```will make it real, lol.
 
 ### Usage
 
